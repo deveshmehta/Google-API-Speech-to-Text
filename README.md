@@ -1,6 +1,6 @@
 ## Google Speech to text REST API implementation using Recorder.js:
 
-#### [Demo](https://lifecoder123.github.io/Speech-to-Text-Converter/)
+#### [Demo](https://devesh-mehta.netlify.app/)
 
 Google speech to text API used along with Recorder.js library.It will take audio from Microphone and passes the audio data to Google API Explorer API(REST API).We have used Recorder js library for recording audio through Microphone and Store into Browser in memory database which is called as "Blob" data as audio format.Also shows the recording list after recording has been done.
 
@@ -108,7 +108,7 @@ SampleRateHertz for:
 4. In Case After base64 generation are taking time and Speech api will throws 400 Bad request.You can use "execute" button for sending data to API again.It will work properly.
 
 
-#### [Demo](https://lifecoder123.github.io/Speech-to-Text-Converter/)
+#### [Demo](https://devesh-mehta.netlify.app/)
 
 
 
