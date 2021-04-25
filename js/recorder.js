@@ -243,7 +243,7 @@ function loadClient() {
   // Make sure the client is loaded before calling this method.
   function execute() {
       console.log("audio_url",url);
-    return gapi.client.speech.speech.recognize({
+    return gapi.client.speech.recognize({
       "resource": {
         "audio": {
                       "content": base64AudioFormat
